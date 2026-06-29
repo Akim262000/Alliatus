@@ -1,0 +1,35 @@
+.header {
+  z-index: 10000;
+}
+
+.bg-dark-grey {
+  color: #303030;
+}
+
+.font-20 {
+  font-size: 20px;
+}
+
+.lh-30 {
+  line-height: 30px;
+}
+
+.br-12 {
+  border-radius: 12px;
+}
+
+.border-dark-brown {
+  border: 1px solid #49342f;
+}
+
+.pt-80 {
+  padding-top: 80px;
+}
+
+.pb-50 {
+  padding-bottom: 50px;
+}
+
+.me-50 {
+  margin-right: 50px;
+}
