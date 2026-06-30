@@ -1,11 +1,11 @@
-# Alliatus
+# Habitus – Habit Tracker App Landing Page
 
-Alliatus – Mastermind Landing Page Template
+Это лендинг страница для приложения, отслеживающего привычки. 
 
 Проект не предназначен для коммерческого использования или промышленного развёртывания. Он демонстрирует базовые концепции веб‑разработки и может служить шаблоном для начинающих.
-[Ссылка на готовый проект](https://akim262000.github.io/Alliatus/ "Я проект!") 
+[Ссылка на готовый проект](https://akim262000.github.io/Habitus/ "Я проект!") 
 
-[Я использовал макет от Olga](https://www.figma.com/design/hMJC2PTngxglJGEjZwXhSa/Alliatus-–-Mastermind-Landing-Page-Template--Community-?node-id=4047-706&t=FnOmfv4CSlGJQDPm-0 "Я макет!") 
+[Я использовал макет от Olga](https://www.figma.com/design/F1DDO04IIBbjyj9BirUCJa/Habitus-–-Habit-Tracker-App-Landing-Page--Community-?node-id=2027-281&t=rAXrwRw6hZfH6lhZ-0 "Я макет!") 
 
 
 ## Этот проект был создан в учебных целях для:

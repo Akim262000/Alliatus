@@ -2,8 +2,24 @@
   z-index: 10000;
 }
 
-.bg-dark-grey {
+.bg-dark-gray {
+  background-color: #303030;
+}
+
+.bg-yellow {
+  background-color: #FFDD81;
+}
+
+.text-dark-gray {
   color: #303030;
+}
+
+.font-64 {
+  font-size: 64px;
+}
+
+.font-22 {
+  font-size: 22px;
 }
 
 .font-20 {
@@ -18,12 +34,29 @@
   border-radius: 12px;
 }
 
+.br-40 {
+  border-radius: 40px;
+}
+
 .border-dark-brown {
   border: 1px solid #49342f;
 }
 
+.pt-90 {
+  padding-top: 90px;
+}
+
 .pt-80 {
   padding-top: 80px;
+}
+
+.pb-70 {
+  padding-bottom: 70px;
+}
+
+.px-70 {
+  padding-left: 70px;
+  padding-right: 70px;
 }
 
 .pb-50 {
@@ -32,4 +65,8 @@
 
 .me-50 {
   margin-right: 50px;
+}
+
+.pt-220 {
+  padding-top: 220px;
 }
