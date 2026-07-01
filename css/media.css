@@ -102,3 +102,11 @@
     top: 0px;
   }
 }
+
+@media (min-width: 992px) {
+  .col-xl-2-4 {
+  flex: 0 0 auto;
+  width: 20%;
+}
+
+}
