@@ -101,6 +101,10 @@
     transform: rotate(-45deg);
     top: 0px;
   }
+
+  .what-description {
+    background-color: #fff;
+  }
 }
 
 @media (min-width: 992px) {
@@ -108,5 +112,11 @@
   flex: 0 0 auto;
   width: 20%;
 }
+}
 
+
+@media (max-width: 768px) {
+  .font-64 {
+    font-size: 48px;
+  }
 }
