@@ -114,9 +114,19 @@
 }
 }
 
-
 @media (max-width: 768px) {
   .font-64 {
     font-size: 48px;
+  }
+}
+
+@media (max-width: 568px) {
+  .font-64 {
+    font-size: 36px;
+  }
+
+  .px-70 {
+    padding-left: 16px;
+    padding-right: 16px;
   }
 }
