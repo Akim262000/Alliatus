@@ -26,6 +26,10 @@
   font-size: 64px;
 }
 
+.font-60 {
+  font-size: 60px;
+}
+
 .font-40 {
   font-size: 40px;
 }
@@ -107,6 +111,10 @@
   padding-right: 70px;
 }
 
+.pb-70 {
+  padding-bottom: 70px;
+}
+
 .pb-50 {
   padding-bottom: 50px;
 }
@@ -118,6 +126,15 @@
 .px-50 {
   padding-left: 50px;
   padding-right: 50px;
+}
+
+.pt-40 {
+  padding-top: 40px;
+}
+
+.px-40 {
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .pt-220 {
